@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robfarb
-- 👀 I’m interested in react, python / django, all things JavaScript, and Animals! 🐕 🐟 🦎
+- 👀 I’m interested in react, python / django, all things JavaScript, and Animals! 🐕 🐟
 - 🌱 I’m currently learning Testing JavaScript with Kent C. Dodds, and the ins and outs of Django
 - 💞️ I’m looking to collaborate on anything / everything!
 - 📫 How to reach me robfarb@goodwatercap.com, on slack @Robert Farb, by phone @ (310) 903-2359 
